@@ -1,0 +1,100 @@
+* {
+    padding:0;
+    margin:0;
+}
+#sunset{
+    position:absolute;
+    width: 100%;
+    height:50vh;
+    
+}
+#ordi{
+    position:relative;
+    width: 20vw;
+    height:33vh;
+   top:31vh;
+   left:39vw;
+}
+.header #orsun{
+    position:absolute;
+    width: 12vw;
+    height:14vh;
+    top:40vh;
+    left:43vw;
+    border:    chocolate 0.5px;
+} 
+h1{
+    position: relative;
+    text-align: center;
+    margin-top:-20vh;
+    color:chocolate;
+
+}
+.main{color: gray;
+    width: 100%;
+    height: 50vh;
+    background-color: orange;
+    
+
+}
+.mon-projet{
+    position:absolute;
+    padding-top:40vh;
+    margin-left: 10vw;
+    
+
+
+}
+a{ 
+    color:chocolate;
+    text-decoration: none;
+}
+a:hover{
+    color:black;
+    font-size: 18px;
+    background-color: darkorange;
+    cursor:crosshair;
+    
+
+}
+
+.mes-solutions{
+    position:relative;
+    padding-top:40vh;
+    margin-left: 45vw;
+
+}
+.mes-couts{
+    position: relative;
+    margin-top: -6vh;
+    margin-left:80vw;
+     
+}
+.main-down{
+    margin: 0;;
+    display:flex;
+    width:100%;
+    height:30vh;
+    background-color: chocolate;
+      padding: 10px 0px 0px 5px ;
+      justify-content: space-around;
+
+}
+#sun{
+    width: 280px;
+    height: 150px;
+}
+#sun-1{
+    width: 250px;
+    height:140px;
+    
+    
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    width:100%;
+    height:5vh;
+    background-color: darkorange;
+
+}
